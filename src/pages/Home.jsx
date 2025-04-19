@@ -36,7 +36,7 @@ const Home = () => {
           <h1>Digital</h1>
           <h1 className="text-blue">Experience</h1>
         </div>
-        <div className="flex sm:flex-wrap justify-center gap-5 mt-8">
+        <div className="flex flex-wrap justify-center gap-5 mt-8">
           <Card
             bg="light"
             title="Envision"
