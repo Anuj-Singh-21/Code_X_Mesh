@@ -136,9 +136,9 @@ const Services = () => {
         </div>
       </div>
 
-      {/* Why CodeWeb */}
+      {/* Why CodeXMesh */}
       <div className="bg-gray-dark text-white px-10 py-20">
-        <h2 className="text-4xl mb-6 text-blue">Why Choose CodeWeb?</h2>
+        <h2 className="text-4xl mb-6 text-blue">Why Choose CodeXMesh?</h2>
         <div className="grid md:grid-cols-4 gap-6">
           <Card
             title="Speed to Market"

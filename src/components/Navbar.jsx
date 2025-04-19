@@ -61,7 +61,7 @@ const Navbar = () => {
         {/* Right Column (Buttons/Actions) */}
         <div className="w-1/3 flex justify-end">
           <button className="text-xs md:text-sm bg-blue hover:bg-blue text-white font-semibold py-2 px-4 rounded">
-            <Link to="/">Let's Connect</Link>
+            <Link to="/contact">Let's Connect</Link>
           </button>
         </div>
       </div>

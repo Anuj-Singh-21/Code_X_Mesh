@@ -80,7 +80,7 @@ const About = () => {
       {/* Core Values Section */}
       <div className="bg-background text-white px-5 sm:px-10 py-20">
         <h2 className="text-3xl sm:text-4xl mb-6 text-blue">
-          CodeWeb ’s Core Values
+          CodeXMesh ’s Core Values
         </h2>
         <p className="mb-8 max-w-5xl">
           Our values guide how we work, collaborate, and deliver results—even as
@@ -141,7 +141,7 @@ const About = () => {
           inclusivity, and kindness are part of our foundation.
         </p>
         <p className="text-blue underline cursor-pointer">
-          Read more about diversity at CodeWeb
+          Read more about diversity at CodeXMesh
         </p>
       </div>
 
@@ -155,7 +155,7 @@ const About = () => {
           tech community as we grow.
         </p>
         <p className="text-blue underline cursor-pointer">
-          Read about sustainability at CodeWeb
+          Read about sustainability at CodeXMesh
         </p>
       </div>
 
@@ -183,7 +183,7 @@ const About = () => {
           pressure, just possibilities.
         </p>
         <button className="bg-blue text-white px-6 py-3 rounded-xl hover:bg-blue/80 transition">
-          <Link to="/contact">Become a CodeWeb Partner</Link>
+          <Link to="/contact">Become a CodeXMesh Partner</Link>
         </button>
       </div>
     </>

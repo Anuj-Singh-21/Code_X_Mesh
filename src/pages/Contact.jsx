@@ -38,7 +38,7 @@ const Contact = () => {
             </p>
             <div className="space-y-4">
               <div className="flex items-center gap-3 text-gray-300 text-sm sm:text-base">
-                <Mail className="text-blue" /> hello@CodeWeb.dev
+                <Mail className="text-blue" /> hello@CodeXMesh.dev
               </div>
               <div className="flex items-center gap-3 text-gray-300 text-sm sm:text-base">
                 <Phone className="text-blue" /> +1 234 567 890

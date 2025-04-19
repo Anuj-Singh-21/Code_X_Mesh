@@ -159,11 +159,11 @@ Ensure your product is scalable, secure, and always improving.
 
 ### 💬 In Our Clients’ Words
 
-> "CodeWeb has been the best agency we've worked with so far." – _Adi Pavlovic, Director of Innovation, Keller Williams_
+> "CodeXMesh has been the best agency we've worked with so far." – _Adi Pavlovic, Director of Innovation, Keller Williams_
 
-> "The small development team we work with daily is good, but we know other resources within CodeWeb can be tapped." – _Jonathan Uy, CTO, Shine_
+> "The small development team we work with daily is good, but we know other resources within CodeXMesh can be tapped." – _Jonathan Uy, CTO, Shine_
 
-> "CodeWeb always tries to make things possible." – _Susanne Wechsler, Director B2B at Babbel_
+> "CodeXMesh always tries to make things possible." – _Susanne Wechsler, Director B2B at Babbel_
 
 > "We definitely increased the pace of development." – _Marco Deseri, Chief Digital Officer, Artemest_
 
